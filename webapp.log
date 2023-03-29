@@ -1,0 +1,4 @@
+2023/03/28 15:11:31 main.go:12: test
+2023/03/29 12:14:05 todos.go:52: sql: expected 4 destination arguments in Scan, not 3
+2023/03/29 12:15:03 todos.go:51: sql: expected 4 destination arguments in Scan, not 3
+2023/03/29 13:02:39 todos.go:90: near "where": syntax error
